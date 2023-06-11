@@ -9,6 +9,6 @@ Integrantes:
 - Ezequiel Carranza DNI 38043842
 - John Lugo DNI 95668013
 
-API utilizada: https://rapidapi.com/sanchezballesterospablo/api/recetas-en-espanol/
+API utilizada: www.themealdb.com/api/json/v1/1/search.php?s=Arrabiata ; www.themealdb.com/api/json/v1/1/lookup.php?i=52772
 
 Muchas gracias!
