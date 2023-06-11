@@ -99,7 +99,7 @@ select{
   
 
 header {
-    background-image: url("/TPO2/IMG/Header.jpg");
+    background-image: url("IMG/Header.jpg");
     background-size: cover;
     background-repeat:no-repeat;
     background-attachment: fixed;
